@@ -1,6 +1,8 @@
 /.DS_Store
 /.venv
 /breast_cancer_cnn.pth
-/data
-/cross_validation
+**/**/*.png
+**/**/*.jpg
 TODO
+data/
+cross_validation/
