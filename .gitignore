@@ -1,8 +1,5 @@
 /.DS_Store
 /.venv
 *.pth
-**/**/*.png
-**/**/*.jpg
 TODO
 data/
-cross_validation/
